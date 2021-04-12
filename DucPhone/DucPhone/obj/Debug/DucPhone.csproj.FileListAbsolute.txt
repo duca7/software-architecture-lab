@@ -1,0 +1,10 @@
+C:\Users\hohuy\source\repos\DucPhone\DucPhone\obj\Debug\DucPhone.csprojAssemblyReference.cache
+C:\Users\hohuy\source\repos\DucPhone\DucPhone\obj\Debug\DucPhone.PhoneForm.resources
+C:\Users\hohuy\source\repos\DucPhone\DucPhone\obj\Debug\DucPhone.Properties.Resources.resources
+C:\Users\hohuy\source\repos\DucPhone\DucPhone\obj\Debug\DucPhone.csproj.GenerateResource.cache
+C:\Users\hohuy\source\repos\DucPhone\DucPhone\obj\Debug\DucPhone.csproj.CoreCompileInputs.cache
+C:\Users\hohuy\source\repos\DucPhone\DucPhone\bin\Debug\DucPhone.exe.config
+C:\Users\hohuy\source\repos\DucPhone\DucPhone\bin\Debug\DucPhone.exe
+C:\Users\hohuy\source\repos\DucPhone\DucPhone\bin\Debug\DucPhone.pdb
+C:\Users\hohuy\source\repos\DucPhone\DucPhone\obj\Debug\DucPhone.exe
+C:\Users\hohuy\source\repos\DucPhone\DucPhone\obj\Debug\DucPhone.pdb

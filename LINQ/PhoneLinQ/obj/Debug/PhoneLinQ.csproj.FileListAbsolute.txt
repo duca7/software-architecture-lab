@@ -1,0 +1,10 @@
+C:\Users\hohuy\source\repos\LINQ\PhoneLinQ\bin\Debug\PhoneLinQ.exe.config
+C:\Users\hohuy\source\repos\LINQ\PhoneLinQ\bin\Debug\PhoneLinQ.exe
+C:\Users\hohuy\source\repos\LINQ\PhoneLinQ\bin\Debug\PhoneLinQ.pdb
+C:\Users\hohuy\source\repos\LINQ\PhoneLinQ\obj\Debug\PhoneLinQ.csprojAssemblyReference.cache
+C:\Users\hohuy\source\repos\LINQ\PhoneLinQ\obj\Debug\PhoneLinQ.PhoneForm.resources
+C:\Users\hohuy\source\repos\LINQ\PhoneLinQ\obj\Debug\PhoneLinQ.Properties.Resources.resources
+C:\Users\hohuy\source\repos\LINQ\PhoneLinQ\obj\Debug\PhoneLinQ.csproj.GenerateResource.cache
+C:\Users\hohuy\source\repos\LINQ\PhoneLinQ\obj\Debug\PhoneLinQ.csproj.CoreCompileInputs.cache
+C:\Users\hohuy\source\repos\LINQ\PhoneLinQ\obj\Debug\PhoneLinQ.exe
+C:\Users\hohuy\source\repos\LINQ\PhoneLinQ\obj\Debug\PhoneLinQ.pdb

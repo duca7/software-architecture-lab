@@ -1,0 +1,10 @@
+C:\Users\hohuy\source\repos\LINQ\PhoneStore\obj\Debug\PhoneStore.csprojAssemblyReference.cache
+C:\Users\hohuy\source\repos\LINQ\PhoneStore\obj\Debug\PhoneStore.Form1.resources
+C:\Users\hohuy\source\repos\LINQ\PhoneStore\obj\Debug\PhoneStore.Properties.Resources.resources
+C:\Users\hohuy\source\repos\LINQ\PhoneStore\obj\Debug\PhoneStore.csproj.GenerateResource.cache
+C:\Users\hohuy\source\repos\LINQ\PhoneStore\obj\Debug\PhoneStore.csproj.CoreCompileInputs.cache
+C:\Users\hohuy\source\repos\LINQ\PhoneStore\bin\Debug\PhoneStore.exe.config
+C:\Users\hohuy\source\repos\LINQ\PhoneStore\bin\Debug\PhoneStore.exe
+C:\Users\hohuy\source\repos\LINQ\PhoneStore\bin\Debug\PhoneStore.pdb
+C:\Users\hohuy\source\repos\LINQ\PhoneStore\obj\Debug\PhoneStore.exe
+C:\Users\hohuy\source\repos\LINQ\PhoneStore\obj\Debug\PhoneStore.pdb
