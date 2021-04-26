@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><Database Name="sellphone" Class="MyDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
-  <Connection Mode="AppSettings" ConnectionString="Data Source=den1.mssql7.gear.host;Initial Catalog=sellphone;User ID=sellphone" SettingsObjectName="PhoneLinQ.Properties.Settings" SettingsPropertyName="sellphoneConnectionString" Provider="System.Data.SqlClient" />
   <Table Name="dbo.Phone" Member="Phones">
     <Type Name="Phone">
       <Column Name="Code" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
