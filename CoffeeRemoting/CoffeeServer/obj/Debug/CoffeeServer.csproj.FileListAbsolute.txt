@@ -1,0 +1,11 @@
+C:\Users\hohuy\source\repos\CoffeeServer\bin\Debug\CoffeeServer.exe.config
+C:\Users\hohuy\source\repos\CoffeeServer\bin\Debug\CoffeeServer.exe
+C:\Users\hohuy\source\repos\CoffeeServer\bin\Debug\CoffeeServer.pdb
+C:\Users\hohuy\source\repos\CoffeeServer\bin\Debug\CoffeeShared.dll
+C:\Users\hohuy\source\repos\CoffeeServer\bin\Debug\CoffeeShared.pdb
+C:\Users\hohuy\source\repos\CoffeeServer\bin\Debug\CoffeeShared.dll.config
+C:\Users\hohuy\source\repos\CoffeeServer\obj\Debug\CoffeeServer.csprojAssemblyReference.cache
+C:\Users\hohuy\source\repos\CoffeeServer\obj\Debug\CoffeeServer.csproj.CoreCompileInputs.cache
+C:\Users\hohuy\source\repos\CoffeeServer\obj\Debug\CoffeeServer.csproj.CopyComplete
+C:\Users\hohuy\source\repos\CoffeeServer\obj\Debug\CoffeeServer.exe
+C:\Users\hohuy\source\repos\CoffeeServer\obj\Debug\CoffeeServer.pdb
