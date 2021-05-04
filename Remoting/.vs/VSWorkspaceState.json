@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PhoneClient",
+    "\\PhoneServer",
+    "\\PhoneShared"
+  ],
+  "SelectedNode": "\\PhoneServer\\PhoneServer.csproj",
+  "PreviewInSolutionExplorer": false
+}
