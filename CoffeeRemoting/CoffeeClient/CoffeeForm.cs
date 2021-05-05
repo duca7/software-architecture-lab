@@ -15,10 +15,14 @@ namespace CoffeeClient
     {
         const String url = "tcp://ip_server:6969/coffee";
         ICoffeeBUS coffeeBUS = (ICoffeeBUS)Activator.GetObject(typeof(ICoffeeBUS), url);
-
         public CoffeeForm()
         {
             InitializeComponent();
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
         }
 
         private void CoffeeForm_Load(object sender, EventArgs e)
@@ -49,7 +53,7 @@ namespace CoffeeClient
             bool result = coffeeBUS.AddNew(newCoffee);
             if (result)
             {
-                List<Coffee> coffees =  coffeeBUS.GetAll();
+                List<Coffee> coffees = coffeeBUS.GetAll();
                 gridCoffee.DataSource = coffees;
             }
             else
@@ -88,7 +92,7 @@ namespace CoffeeClient
             if (dialogResult == DialogResult.Yes)
             {
                 int code = int.Parse(txtCode.Text);
-                bool result =  coffeeBUS.Delete(code);
+                bool result = coffeeBUS.Delete(code);
                 if (result)
                 {
                     List<Coffee> coffees = coffeeBUS.GetAll();
@@ -107,7 +111,7 @@ namespace CoffeeClient
             if (gridCoffee.SelectedRows.Count > 0)
             {
                 int code = int.Parse(gridCoffee.SelectedRows[0].Cells["Code"].Value.ToString());
-                Coffee coffee =  coffeeBUS.GetDetails(code);
+                Coffee coffee = coffeeBUS.GetDetails(code);
                 if (coffee != null)
                 {
                     txtCode.Text = coffee.Code.ToString();

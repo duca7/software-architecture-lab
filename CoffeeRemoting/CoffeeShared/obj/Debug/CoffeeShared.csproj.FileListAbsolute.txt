@@ -1,7 +1,0 @@
-C:\Users\hohuy\source\repos\CoffeeShared\bin\Debug\CoffeeShared.dll.config
-C:\Users\hohuy\source\repos\CoffeeShared\bin\Debug\CoffeeShared.dll
-C:\Users\hohuy\source\repos\CoffeeShared\bin\Debug\CoffeeShared.pdb
-C:\Users\hohuy\source\repos\CoffeeShared\obj\Debug\CoffeeShared.csprojAssemblyReference.cache
-C:\Users\hohuy\source\repos\CoffeeShared\obj\Debug\CoffeeShared.csproj.CoreCompileInputs.cache
-C:\Users\hohuy\source\repos\CoffeeShared\obj\Debug\CoffeeShared.dll
-C:\Users\hohuy\source\repos\CoffeeShared\obj\Debug\CoffeeShared.pdb

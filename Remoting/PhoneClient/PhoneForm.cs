@@ -13,8 +13,8 @@ namespace PhoneClient
 {
     public partial class PhoneForm : Form
     {
-        const String uri = "tcp://ip_server:6969/sellphone";
-        IPhoneBUS phoneBUS = (IPhoneBUS)Activator.GetObject(typeof(IPhoneBUS), uri);
+        const String url = "tcp://ip_server:6969/sellphone";
+        IPhoneBUS phoneBUS = (IPhoneBUS)Activator.GetObject(typeof(IPhoneBUS), url);
         public PhoneForm()
         {
             InitializeComponent();
@@ -24,42 +24,6 @@ namespace PhoneClient
         {
             List<Phone> phones = phoneBUS.GetAll();
             gridPhone.DataSource = phones;
-        }
-
-        private void gridPhone_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-            int selectedRowCount = gridPhone.Rows.GetRowCount(DataGridViewElementStates.Selected);
-            if (selectedRowCount > 0)
-            {
-                int code = int.Parse(gridPhone.SelectedRows[0].Cells["Code"].Value.ToString());
-                Phone phone = phoneBUS.GetDetails(code);
-                if (phone != null)
-                {
-                    txtCode.Text = phone.Code.ToString();
-                    txtName.Text = phone.Name;
-                    txtColor.Text = phone.Color;
-                    txtPrice.Text = phone.Price.ToString();
-                    txtQuantity.Text = phone.Quantity.ToString();
-                }
-            }
-        }
-
-        private void gridPhone_SelectionChanged(object sender, EventArgs e)
-        {
-            int selectedRowCount = gridPhone.Rows.GetRowCount(DataGridViewElementStates.Selected);
-            if (selectedRowCount > 0)
-            {
-                int code = int.Parse(gridPhone.SelectedRows[0].Cells["Code"].Value.ToString());
-                Phone phone = phoneBUS.GetDetails(code);
-                if (phone != null)
-                {
-                    txtCode.Text = phone.Code.ToString();
-                    txtName.Text = phone.Name;
-                    txtColor.Text = phone.Color;
-                    txtPrice.Text = phone.Price.ToString();
-                    txtQuantity.Text = phone.Quantity.ToString();
-                }
-            }
         }
 
         private void bntSearch_Click(object sender, EventArgs e)
@@ -110,9 +74,8 @@ namespace PhoneClient
             else
             {
                 MessageBox.Show("Sorry Something Wrong");
-            }
+            }   
         }
-
 
         private void bntDelete_Click(object sender, EventArgs e)
         {
@@ -134,5 +97,40 @@ namespace PhoneClient
             }
         }
 
+        private void gridPhone_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            int selectedRowCount = gridPhone.Rows.GetRowCount(DataGridViewElementStates.Selected);
+            if (selectedRowCount > 0)
+            {
+                int code = int.Parse(gridPhone.SelectedRows[0].Cells["Code"].Value.ToString());
+                Phone phone = phoneBUS.GetDetails(code);
+                if (phone != null)
+                {
+                    txtCode.Text = phone.Code.ToString();
+                    txtName.Text = phone.Name;
+                    txtColor.Text = phone.Color;
+                    txtPrice.Text = phone.Price.ToString();
+                    txtQuantity.Text = phone.Quantity.ToString();
+                }
+            }
+        }
+
+        private void gridPhone_SelectionChanged(object sender, EventArgs e)
+        {
+            int selectedRowCount = gridPhone.Rows.GetRowCount(DataGridViewElementStates.Selected);
+            if (selectedRowCount > 0)
+            {
+                int code = int.Parse(gridPhone.SelectedRows[0].Cells["Code"].Value.ToString());
+                Phone phone = phoneBUS.GetDetails(code);
+                if (phone != null)
+                {
+                    txtCode.Text = phone.Code.ToString();
+                    txtName.Text = phone.Name;
+                    txtColor.Text = phone.Color;
+                    txtPrice.Text = phone.Price.ToString();
+                    txtQuantity.Text = phone.Quantity.ToString();
+                }
+            }
+        }
     }
 }

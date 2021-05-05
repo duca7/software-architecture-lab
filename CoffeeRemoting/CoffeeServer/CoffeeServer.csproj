@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1EAE37A4-D33A-478E-A347-0C40AA1B202E}</ProjectGuid>
+    <ProjectGuid>{590D950C-1496-43C3-A73D-0B8AD64BADED}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>CoffeeServer</RootNamespace>
     <AssemblyName>CoffeeServer</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
@@ -56,7 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CoffeeShared\CoffeeShared.csproj">
-      <Project>{1afee619-bdde-4c26-b692-5a2187cc0835}</Project>
+      <Project>{07041faa-523e-4143-827f-37eab8972a9f}</Project>
       <Name>CoffeeShared</Name>
     </ProjectReference>
   </ItemGroup>

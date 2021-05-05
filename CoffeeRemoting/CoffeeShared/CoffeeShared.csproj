@@ -4,12 +4,12 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1AFEE619-BDDE-4C26-B692-5A2187CC0835}</ProjectGuid>
+    <ProjectGuid>{07041FAA-523E-4143-827F-37EAB8972A9F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CoffeeShared</RootNamespace>
     <AssemblyName>CoffeeShared</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ICoffeeBUS.cs" />
+    <Compile Include="ICoffeeBUScs.cs" />
     <Compile Include="MyDB.designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
