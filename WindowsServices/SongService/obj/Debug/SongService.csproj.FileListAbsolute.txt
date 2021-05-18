@@ -1,0 +1,11 @@
+C:\Users\hohuy\source\repos\WindowsServices\SongService\bin\Debug\SongService.exe.config
+C:\Users\hohuy\source\repos\WindowsServices\SongService\bin\Debug\SongService.exe
+C:\Users\hohuy\source\repos\WindowsServices\SongService\bin\Debug\SongService.pdb
+C:\Users\hohuy\source\repos\WindowsServices\SongService\bin\Debug\SongShared.dll
+C:\Users\hohuy\source\repos\WindowsServices\SongService\bin\Debug\SongShared.pdb
+C:\Users\hohuy\source\repos\WindowsServices\SongService\bin\Debug\SongShared.dll.config
+C:\Users\hohuy\source\repos\WindowsServices\SongService\obj\Debug\SongService.csprojAssemblyReference.cache
+C:\Users\hohuy\source\repos\WindowsServices\SongService\obj\Debug\SongService.csproj.CoreCompileInputs.cache
+C:\Users\hohuy\source\repos\WindowsServices\SongService\obj\Debug\SongService.csproj.CopyComplete
+C:\Users\hohuy\source\repos\WindowsServices\SongService\obj\Debug\SongService.exe
+C:\Users\hohuy\source\repos\WindowsServices\SongService\obj\Debug\SongService.pdb

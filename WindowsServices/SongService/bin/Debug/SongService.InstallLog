@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\Users\hohuy\source\repos\WindowsServices\SongService\bin\Debug\SongService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\hohuy\source\repos\WindowsServices\SongService\bin\Debug\SongService.exe
+   logfile = C:\Users\hohuy\source\repos\WindowsServices\SongService\bin\Debug\SongService.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\hohuy\source\repos\WindowsServices\SongService\bin\Debug\SongService.exe assembly.
+Committing assembly 'C:\Users\hohuy\source\repos\WindowsServices\SongService\bin\Debug\SongService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\hohuy\source\repos\WindowsServices\SongService\bin\Debug\SongService.exe
+   logfile = C:\Users\hohuy\source\repos\WindowsServices\SongService\bin\Debug\SongService.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\hohuy\source\repos\WindowsServices\SongService\bin\Debug\SongService.exe assembly.
+Remove InstallState file because there are no installers.

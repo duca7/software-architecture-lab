@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="sademo" Class="MyDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=den1.mssql7.gear.host;Initial Catalog=sademo;Persist Security Info=True;User ID=sademo" SettingsObjectName="SongShared.Properties.Settings" SettingsPropertyName="sademoConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Song" Member="Songs">
+    <Type Name="Song">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Title" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Singer" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Album" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Genre" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

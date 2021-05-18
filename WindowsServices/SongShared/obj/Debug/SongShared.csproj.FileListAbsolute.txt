@@ -1,0 +1,6 @@
+C:\Users\hohuy\source\repos\WindowsServices\SongShared\bin\Debug\SongShared.dll.config
+C:\Users\hohuy\source\repos\WindowsServices\SongShared\bin\Debug\SongShared.dll
+C:\Users\hohuy\source\repos\WindowsServices\SongShared\bin\Debug\SongShared.pdb
+C:\Users\hohuy\source\repos\WindowsServices\SongShared\obj\Debug\SongShared.csproj.CoreCompileInputs.cache
+C:\Users\hohuy\source\repos\WindowsServices\SongShared\obj\Debug\SongShared.dll
+C:\Users\hohuy\source\repos\WindowsServices\SongShared\obj\Debug\SongShared.pdb
