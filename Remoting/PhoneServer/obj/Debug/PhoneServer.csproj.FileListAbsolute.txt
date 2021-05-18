@@ -1,0 +1,11 @@
+C:\Users\hohuy\Downloads\software architecture\Remoting\PhoneServer\bin\Debug\PhoneServer.exe.config
+C:\Users\hohuy\Downloads\software architecture\Remoting\PhoneServer\bin\Debug\PhoneServer.exe
+C:\Users\hohuy\Downloads\software architecture\Remoting\PhoneServer\bin\Debug\PhoneServer.pdb
+C:\Users\hohuy\Downloads\software architecture\Remoting\PhoneServer\bin\Debug\PhoneShared.dll
+C:\Users\hohuy\Downloads\software architecture\Remoting\PhoneServer\bin\Debug\PhoneShared.pdb
+C:\Users\hohuy\Downloads\software architecture\Remoting\PhoneServer\bin\Debug\PhoneShared.dll.config
+C:\Users\hohuy\Downloads\software architecture\Remoting\PhoneServer\obj\Debug\PhoneServer.csprojAssemblyReference.cache
+C:\Users\hohuy\Downloads\software architecture\Remoting\PhoneServer\obj\Debug\PhoneServer.csproj.CoreCompileInputs.cache
+C:\Users\hohuy\Downloads\software architecture\Remoting\PhoneServer\obj\Debug\PhoneServer.csproj.CopyComplete
+C:\Users\hohuy\Downloads\software architecture\Remoting\PhoneServer\obj\Debug\PhoneServer.exe
+C:\Users\hohuy\Downloads\software architecture\Remoting\PhoneServer\obj\Debug\PhoneServer.pdb

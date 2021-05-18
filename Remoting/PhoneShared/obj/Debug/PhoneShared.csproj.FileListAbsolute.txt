@@ -1,0 +1,7 @@
+C:\Users\hohuy\Downloads\software architecture\Remoting\PhoneShared\bin\Debug\PhoneShared.dll.config
+C:\Users\hohuy\Downloads\software architecture\Remoting\PhoneShared\bin\Debug\PhoneShared.dll
+C:\Users\hohuy\Downloads\software architecture\Remoting\PhoneShared\bin\Debug\PhoneShared.pdb
+C:\Users\hohuy\Downloads\software architecture\Remoting\PhoneShared\obj\Debug\PhoneShared.csprojAssemblyReference.cache
+C:\Users\hohuy\Downloads\software architecture\Remoting\PhoneShared\obj\Debug\PhoneShared.csproj.CoreCompileInputs.cache
+C:\Users\hohuy\Downloads\software architecture\Remoting\PhoneShared\obj\Debug\PhoneShared.dll
+C:\Users\hohuy\Downloads\software architecture\Remoting\PhoneShared\obj\Debug\PhoneShared.pdb

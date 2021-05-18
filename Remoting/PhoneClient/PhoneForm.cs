@@ -13,7 +13,7 @@ namespace PhoneClient
 {
     public partial class PhoneForm : Form
     {
-        const String url = "tcp://ip_server:6969/sellphone";
+        const String url = "tcp://10.104.23.139:6969/sellphone";
         IPhoneBUS phoneBUS = (IPhoneBUS)Activator.GetObject(typeof(IPhoneBUS), url);
         public PhoneForm()
         {

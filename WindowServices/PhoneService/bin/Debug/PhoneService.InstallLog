@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\Users\hohuy\source\repos\WindowServices\PhoneService\bin\Debug\PhoneService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\hohuy\source\repos\WindowServices\PhoneService\bin\Debug\PhoneService.exe
+   logfile = C:\Users\hohuy\source\repos\WindowServices\PhoneService\bin\Debug\PhoneService.InstallLog
+Installing service PhoneService...
+Service PhoneService has been successfully installed.
+Creating EventLog source PhoneService in log Application...
+Committing assembly 'C:\Users\hohuy\source\repos\WindowServices\PhoneService\bin\Debug\PhoneService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\hohuy\source\repos\WindowServices\PhoneService\bin\Debug\PhoneService.exe
+   logfile = C:\Users\hohuy\source\repos\WindowServices\PhoneService\bin\Debug\PhoneService.InstallLog
