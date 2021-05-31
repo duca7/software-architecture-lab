@@ -3,8 +3,9 @@
     "",
     "\\PhoneClient",
     "\\PhoneServer",
-    "\\PhoneServer\\Properties"
+    "\\PhoneServer\\Properties",
+    "\\PhoneShared"
   ],
-  "SelectedNode": "\\PhoneServer",
+  "SelectedNode": "\\PhoneServer\\App.config",
   "PreviewInSolutionExplorer": false
 }

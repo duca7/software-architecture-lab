@@ -73,7 +73,7 @@ namespace PhoneShared
 			}
 		}
 	}
-	
+	[Serializable]
 	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.Phone")]
 	public partial class Phone : INotifyPropertyChanging, INotifyPropertyChanged
 	{
