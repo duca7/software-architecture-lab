@@ -1,0 +1,10 @@
+C:\Users\hohuy\Downloads\software architecture\SongSoapService\SongClient\bin\Debug\SongClient.exe.config
+C:\Users\hohuy\Downloads\software architecture\SongSoapService\SongClient\bin\Debug\SongClient.exe
+C:\Users\hohuy\Downloads\software architecture\SongSoapService\SongClient\bin\Debug\SongClient.pdb
+C:\Users\hohuy\Downloads\software architecture\SongSoapService\SongClient\obj\Debug\SongClient.csprojAssemblyReference.cache
+C:\Users\hohuy\Downloads\software architecture\SongSoapService\SongClient\obj\Debug\SongClient.Properties.Resources.resources
+C:\Users\hohuy\Downloads\software architecture\SongSoapService\SongClient\obj\Debug\SongClient.SongForm.resources
+C:\Users\hohuy\Downloads\software architecture\SongSoapService\SongClient\obj\Debug\SongClient.csproj.GenerateResource.cache
+C:\Users\hohuy\Downloads\software architecture\SongSoapService\SongClient\obj\Debug\SongClient.csproj.CoreCompileInputs.cache
+C:\Users\hohuy\Downloads\software architecture\SongSoapService\SongClient\obj\Debug\SongClient.exe
+C:\Users\hohuy\Downloads\software architecture\SongSoapService\SongClient\obj\Debug\SongClient.pdb
