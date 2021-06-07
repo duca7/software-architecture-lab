@@ -1,0 +1,13 @@
+C:\Users\hohuy\source\repos\PhoneRestfulService\PhoneClient\bin\Debug\PhoneClient.exe.config
+C:\Users\hohuy\source\repos\PhoneRestfulService\PhoneClient\bin\Debug\PhoneClient.exe
+C:\Users\hohuy\source\repos\PhoneRestfulService\PhoneClient\bin\Debug\PhoneClient.pdb
+C:\Users\hohuy\source\repos\PhoneRestfulService\PhoneClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hohuy\source\repos\PhoneRestfulService\PhoneClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hohuy\source\repos\PhoneRestfulService\PhoneClient\obj\Debug\PhoneClient.csprojAssemblyReference.cache
+C:\Users\hohuy\source\repos\PhoneRestfulService\PhoneClient\obj\Debug\PhoneClient.Form1.resources
+C:\Users\hohuy\source\repos\PhoneRestfulService\PhoneClient\obj\Debug\PhoneClient.Properties.Resources.resources
+C:\Users\hohuy\source\repos\PhoneRestfulService\PhoneClient\obj\Debug\PhoneClient.csproj.GenerateResource.cache
+C:\Users\hohuy\source\repos\PhoneRestfulService\PhoneClient\obj\Debug\PhoneClient.csproj.CoreCompileInputs.cache
+C:\Users\hohuy\source\repos\PhoneRestfulService\PhoneClient\obj\Debug\PhoneClient.csproj.CopyComplete
+C:\Users\hohuy\source\repos\PhoneRestfulService\PhoneClient\obj\Debug\PhoneClient.exe
+C:\Users\hohuy\source\repos\PhoneRestfulService\PhoneClient\obj\Debug\PhoneClient.pdb

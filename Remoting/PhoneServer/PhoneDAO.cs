@@ -21,12 +21,14 @@ namespace PhoneServer
 
         public Phone SelectByCode(int code)
         {
+            db.ObjectTrackingEnabled = false;
             Phone phone = db.Phones.SingleOrDefault(b => b.Code == code);
             return phone;
         }
 
         public List<Phone> SelectByKeyword(String keyword)
         {
+            db.ObjectTrackingEnabled = false;
             List<Phone> phones = db.Phones.Where(b => b.Name.Contains(keyword)).ToList();
             return phones;
         }

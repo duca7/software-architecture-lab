@@ -5,3 +5,10 @@ C:\Users\hohuy\source\repos\WindowServices\PhoneShare\obj\Debug\PhoneShare.cspro
 C:\Users\hohuy\source\repos\WindowServices\PhoneShare\obj\Debug\PhoneShare.csproj.CoreCompileInputs.cache
 C:\Users\hohuy\source\repos\WindowServices\PhoneShare\obj\Debug\PhoneShare.dll
 C:\Users\hohuy\source\repos\WindowServices\PhoneShare\obj\Debug\PhoneShare.pdb
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneShare\bin\Debug\PhoneShare.dll.config
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneShare\bin\Debug\PhoneShare.dll
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneShare\bin\Debug\PhoneShare.pdb
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneShare\obj\Debug\PhoneShare.csprojAssemblyReference.cache
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneShare\obj\Debug\PhoneShare.csproj.CoreCompileInputs.cache
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneShare\obj\Debug\PhoneShare.dll
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneShare\obj\Debug\PhoneShare.pdb

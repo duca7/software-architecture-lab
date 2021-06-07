@@ -13,3 +13,18 @@ Affected parameters are:
    i = 
    assemblypath = C:\Users\hohuy\source\repos\WindowServices\PhoneService\bin\Debug\PhoneService.exe
    logfile = C:\Users\hohuy\source\repos\WindowServices\PhoneService\bin\Debug\PhoneService.InstallLog
+Installing assembly 'C:\Users\hohuy\Downloads\softwarearchitecture\WindowServices\PhoneService\bin\Debug\PhoneService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\hohuy\Downloads\softwarearchitecture\WindowServices\PhoneService\bin\Debug\PhoneService.exe
+   logfile = C:\Users\hohuy\Downloads\softwarearchitecture\WindowServices\PhoneService\bin\Debug\PhoneService.InstallLog
+Installing service PhoneService...
+Creating EventLog source PhoneService in log Application...
+Rolling back assembly 'C:\Users\hohuy\Downloads\softwarearchitecture\WindowServices\PhoneService\bin\Debug\PhoneService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\hohuy\Downloads\softwarearchitecture\WindowServices\PhoneService\bin\Debug\PhoneService.exe
+   logfile = C:\Users\hohuy\Downloads\softwarearchitecture\WindowServices\PhoneService\bin\Debug\PhoneService.InstallLog
+Restoring event log to previous state for source PhoneService.

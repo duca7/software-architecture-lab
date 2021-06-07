@@ -3,9 +3,8 @@
     "",
     "\\PhoneClient",
     "\\PhoneServer",
-    "\\PhoneServer\\Properties",
-    "\\PhoneShared"
+    "\\PhoneServer\\Properties"
   ],
-  "SelectedNode": "\\PhoneServer\\App.config",
+  "SelectedNode": "\\PhoneServer\\PhoneDAO.cs",
   "PreviewInSolutionExplorer": false
 }

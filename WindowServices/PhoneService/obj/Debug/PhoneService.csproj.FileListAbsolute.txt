@@ -11,3 +11,16 @@ C:\Users\hohuy\source\repos\WindowServices\PhoneService\obj\Debug\PhoneService.c
 C:\Users\hohuy\source\repos\WindowServices\PhoneService\obj\Debug\PhoneService.csproj.CopyComplete
 C:\Users\hohuy\source\repos\WindowServices\PhoneService\obj\Debug\PhoneService.exe
 C:\Users\hohuy\source\repos\WindowServices\PhoneService\obj\Debug\PhoneService.pdb
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneService\bin\Debug\PhoneService.exe.config
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneService\bin\Debug\PhoneService.exe
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneService\bin\Debug\PhoneService.pdb
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneService\bin\Debug\PhoneShare.dll
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneService\bin\Debug\PhoneShare.pdb
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneService\bin\Debug\PhoneShare.dll.config
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneService\obj\Debug\PhoneService.csprojAssemblyReference.cache
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneService\obj\Debug\PhoneService.ProjectInstaller.resources
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneService\obj\Debug\PhoneService.csproj.GenerateResource.cache
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneService\obj\Debug\PhoneService.csproj.CoreCompileInputs.cache
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneService\obj\Debug\PhoneService.csproj.CopyComplete
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneService\obj\Debug\PhoneService.exe
+C:\Users\hohuy\Downloads\software architecture\WindowServices\PhoneService\obj\Debug\PhoneService.pdb
