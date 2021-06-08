@@ -1,0 +1,10 @@
+C:\Users\hohuy\source\repos\CoffeeSoapService\CoffeeClient\bin\Debug\CoffeeClient.exe.config
+C:\Users\hohuy\source\repos\CoffeeSoapService\CoffeeClient\bin\Debug\CoffeeClient.exe
+C:\Users\hohuy\source\repos\CoffeeSoapService\CoffeeClient\bin\Debug\CoffeeClient.pdb
+C:\Users\hohuy\source\repos\CoffeeSoapService\CoffeeClient\obj\Debug\CoffeeClient.csprojAssemblyReference.cache
+C:\Users\hohuy\source\repos\CoffeeSoapService\CoffeeClient\obj\Debug\CoffeeClient.CoffeeForm.resources
+C:\Users\hohuy\source\repos\CoffeeSoapService\CoffeeClient\obj\Debug\CoffeeClient.Properties.Resources.resources
+C:\Users\hohuy\source\repos\CoffeeSoapService\CoffeeClient\obj\Debug\CoffeeClient.csproj.GenerateResource.cache
+C:\Users\hohuy\source\repos\CoffeeSoapService\CoffeeClient\obj\Debug\CoffeeClient.csproj.CoreCompileInputs.cache
+C:\Users\hohuy\source\repos\CoffeeSoapService\CoffeeClient\obj\Debug\CoffeeClient.exe
+C:\Users\hohuy\source\repos\CoffeeSoapService\CoffeeClient\obj\Debug\CoffeeClient.pdb
