@@ -1,0 +1,13 @@
+C:\Users\hohuy\Downloads\softwarearchitecture\SongRestfulService\SongClient\bin\Debug\SongClient.exe.config
+C:\Users\hohuy\Downloads\softwarearchitecture\SongRestfulService\SongClient\bin\Debug\SongClient.exe
+C:\Users\hohuy\Downloads\softwarearchitecture\SongRestfulService\SongClient\bin\Debug\SongClient.pdb
+C:\Users\hohuy\Downloads\softwarearchitecture\SongRestfulService\SongClient\obj\Debug\SongClient.csprojAssemblyReference.cache
+C:\Users\hohuy\Downloads\softwarearchitecture\SongRestfulService\SongClient\obj\Debug\SongClient.Properties.Resources.resources
+C:\Users\hohuy\Downloads\softwarearchitecture\SongRestfulService\SongClient\obj\Debug\SongClient.csproj.GenerateResource.cache
+C:\Users\hohuy\Downloads\softwarearchitecture\SongRestfulService\SongClient\obj\Debug\SongClient.csproj.CoreCompileInputs.cache
+C:\Users\hohuy\Downloads\softwarearchitecture\SongRestfulService\SongClient\obj\Debug\SongClient.exe
+C:\Users\hohuy\Downloads\softwarearchitecture\SongRestfulService\SongClient\obj\Debug\SongClient.pdb
+C:\Users\hohuy\Downloads\softwarearchitecture\SongRestfulService\SongClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hohuy\Downloads\softwarearchitecture\SongRestfulService\SongClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hohuy\Downloads\softwarearchitecture\SongRestfulService\SongClient\obj\Debug\SongClient.Form1.resources
+C:\Users\hohuy\Downloads\softwarearchitecture\SongRestfulService\SongClient\obj\Debug\SongClient.csproj.CopyComplete
