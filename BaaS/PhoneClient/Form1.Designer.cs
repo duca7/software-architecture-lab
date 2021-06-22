@@ -135,6 +135,7 @@ namespace PhoneClient
             this.txtCode.Name = "txtCode";
             this.txtCode.Size = new System.Drawing.Size(454, 20);
             this.txtCode.TabIndex = 9;
+            this.txtCode.TextChanged += new System.EventHandler(this.txtCode_TextChanged);
             // 
             // txtName
             // 

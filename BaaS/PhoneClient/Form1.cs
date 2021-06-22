@@ -51,7 +51,7 @@ namespace PhoneClient
         {
             Phone newPhone = new Phone()
             {
-                Code = 0,
+                Code = int.Parse(txtCode.Text.Trim()),
                 Name = txtName.Text.Trim(),
                 Color = txtColor.Text.Trim(),
                 Price = int.Parse(txtPrice.Text.Trim()),
@@ -73,7 +73,7 @@ namespace PhoneClient
         {
             Phone newPhone = new Phone()
             {
-                Code = 0,
+                Code = int.Parse(txtCode.Text.Trim()),
                 Name = txtName.Text.Trim(),
                 Color = txtColor.Text.Trim(),
                 Price = int.Parse(txtPrice.Text.Trim()),
@@ -108,6 +108,11 @@ namespace PhoneClient
                 }
             }
 
+
+        }
+
+        private void txtCode_TextChanged(object sender, EventArgs e)
+        {
 
         }
     }
